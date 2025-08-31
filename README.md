@@ -45,7 +45,8 @@ This extension is designed for developers who work with complex JSON structures 
 ---
 
 ## 🖼️ Screenshots
-_(Add screenshots of your extension here)_
+![JSON Graph Visualization Menu]([images/screenshot.png](https://ik.imagekit.io/qsj9rwkvv/Screenshot%202025-08-31%20at%201.22.11%E2%80%AFPM.png?updatedAt=1756626941414))
+![JSON Graph Visualization]([images/screenshot.png](https://ik.imagekit.io/qsj9rwkvv/Screenshot%202025-08-31%20at%201.22.30%E2%80%AFPM.png?updatedAt=1756626919298))
 
 ---
 
