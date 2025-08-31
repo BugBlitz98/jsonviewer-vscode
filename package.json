@@ -1,13 +1,20 @@
 {
-  "name": "jsonviewer",
-  "displayName": "JSON Viewer",
+  "name": "animesh-jsonviz78",
+  "displayName": "JSON Viewer Tools",
   "description": "Visualize JSON into interactive graphs",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "publisher": "jsonviewertools",
+   "icon": "images/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BugBlitz98/jsonviewer-vscode.git"
+  },
   "engines": {
     "vscode": "^1.103.0"
   },
   "categories": [
-    "Other"
+    "Programming Languages",
+    "Visualization"
   ],
   "activationEvents": [
     "onCommand:jsonVisualizer.visualize"
@@ -17,11 +24,7 @@
     "commands": [
       {
         "command": "jsonVisualizer.openPanel",
-        "title": "Open JSON Visualizer",
-        "icon": {
-          "light": "media/vite.svg",
-          "dark": "media/vite.svg"
-        }
+        "title": "Open JSON Visualizer"
       }
     ],
     "menus": {
