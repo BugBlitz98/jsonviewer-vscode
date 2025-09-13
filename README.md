@@ -4,6 +4,7 @@ Visualize your JSON data in beautiful, **interactive graphs** directly inside VS
 This extension is designed for developers who work with complex JSON structures and want an intuitive way to explore them visually.
 
 ---
+![JSON Graph Visualization Demo](https://ik.imagekit.io/qsj9rwkvv/ezgif.com-video-to-gif-converter%20(1).gif?updatedAt=1757738399712)
 
 ## ✨ Features
 - 📂 **Open JSON Visualizer** command to quickly visualize your JSON files.
