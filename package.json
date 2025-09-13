@@ -2,7 +2,7 @@
   "name": "animesh-jsonviz78",
   "displayName": "JSON Viewer Tools",
   "description": "Visualize JSON into interactive graphs",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "publisher": "jsonviewertools",
    "icon": "images/logo.png",
   "repository": {
