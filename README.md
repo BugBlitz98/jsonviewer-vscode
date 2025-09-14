@@ -53,8 +53,9 @@ This extension is designed for developers who work with complex JSON structures 
 
 ---
 
-## 📝 Changelog
-See [CHANGELOG.md](./CHANGELOG.md) for details.
+☕ **Support Development:** If you find this extension useful, you can [buy me a coffee](https://buymeacoffee.com/animeshmanna) to support its development!  
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/animeshmanna)
 
 ---
 
