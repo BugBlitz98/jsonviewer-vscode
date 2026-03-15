@@ -9,7 +9,10 @@ Are you tired of scrolling through thousands of lines of nested JSON arrays and 
 ## ✨ Key Features
 - 📂 **Instant Open JSON Visualizer** – Quickly render your JSON files with a single command (`jsonVisualizer.openPanel`) or via the editor context menu.
 - 📊 **Interactive Graph View** – Easily navigate through deeply nested JSON structures and arrays using a modern, visual diagram interface.
-- 🔍 **Advanced Zoom & Pan Navigation** – Built-in controls to pan across sprawling datasets and zoom in/out with precision for better spatial data exploration.
+- 🔍 **Smart Node Search** – Instantly search and highlight specific keys or values deep within your JSON trees to find exactly what you need.
+- 🌗 **Adaptive Themes (Dark/Light)** – Seamless support for Dark Mode and Light Mode to match your VS Code environment and reduce eye strain.
+- 📸 **Export Graph as Image** – Easily capture and download a high-quality snapshot of your JSON graph to share with your team or add to documentation.
+- 🧭 **Advanced Zoom & Pan Navigation** – Built-in controls to pan across sprawling datasets and zoom in/out with precision for better spatial data exploration.
 - 🎯 **Privacy First & Fully Local** – Everything is processed securely on your local machine within the VS Code webview. None of your JSON data is sent to external servers.
 - 🚀 **Boost Productivity & Debugging** – Perfect for inspecting REST API responses, configuration metrics, Webpack/NPM files, and debugging complex JSON payloads.
 
