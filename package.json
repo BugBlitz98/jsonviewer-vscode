@@ -1,10 +1,10 @@
 {
   "name": "animesh-jsonviz78",
-  "displayName": "JSON Viewer Tools",
+  "displayName": "JSON Viewer - Graph Visualizer",
   "description": "Visualize JSON into interactive graphs",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "publisher": "jsonviewertools",
-   "icon": "images/logo.png",
+  "icon": "images/logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/BugBlitz98/jsonviewer-vscode.git"
@@ -20,7 +20,7 @@
     "onCommand:jsonVisualizer.visualize"
   ],
   "main": "./dist/extension.js",
-   "contributes": {
+  "contributes": {
     "commands": [
       {
         "command": "jsonVisualizer.openPanel",
