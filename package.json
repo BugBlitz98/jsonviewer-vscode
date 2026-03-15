@@ -1,8 +1,17 @@
 {
   "name": "animesh-jsonviz78",
-  "displayName": "JSON Viewer - Graph Visualizer",
-  "description": "Visualize JSON into interactive graphs",
-  "version": "1.0.0",
+y  "displayName": "JSON Viewer: Interactive Graph Visualizer",
+  "description": "Visualize JSON data as interactive graphs inside VS Code. Explore nested objects, navigate relationships, and understand complex JSON structures visually",
+  "keywords": [
+    "json",
+    "json viewer",
+    "json visualizer",
+    "json graph",
+    "json explorer",
+    "developer tools",
+    "data visualization"
+  ],
+  "version": "1.0.1",
   "publisher": "jsonviewertools",
   "icon": "images/logo.png",
   "repository": {
@@ -13,7 +22,6 @@
     "vscode": "^1.103.0"
   },
   "categories": [
-    "Programming Languages",
     "Visualization"
   ],
   "activationEvents": [
